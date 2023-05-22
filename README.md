@@ -1,4 +1,4 @@
-# Exp.7 Series Queues with infinite capacity - Open Jackson Network
+# Exp.6 Series Queues with infinite capacity - Open Jackson Network
 ### Name : Nithishkumar P
 ### Reg no : 212221230070
 ### Date :
